@@ -1,0 +1,19 @@
+{
+  "name": "mininote-signal-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/ws": "^7.0.0"
+  },
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
